@@ -20,6 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".LocationFinder"></activity>
+        <service android:name=".WeatherService"></service>
     </application>
 
 </manifest>
